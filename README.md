@@ -1,4 +1,4 @@
-# colab-machinelearning-playground
+# colab-playground
 
 This repository contains a collection of deep learning experiments, Kaggle projects, and self-implemented deep learning models/agents. It includes hands-on work from learning the fundamentals of deep learning, through to more advanced applications like transfer learning and reinforcement learning-based agents. All the code is written in Python and organized into Jupyter Notebooks (.ipynb).
 
