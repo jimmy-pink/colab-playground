@@ -5,12 +5,12 @@ This repository contains a collection of deep learning experiments, Kaggle proje
 ## Contents
 
 
-
+- **tensorflow**: 
+  - TensorFlow dataset model training
 - **deeplearning.ai**: 
 	- Coursera deeplearning.ai presentation materials and Lab implementation
 - **Kaggle Experiments**: 
 	- Various beginner to intermediate-level Kaggle competitions and datasets, with model implementations and results.  
-	- TensorFlow dataset model training
 - **Deep Learning Projects**: 
 	- Self-implemented projects that explore different deep learning techniques, including transfer learning, generative models, and reinforcement learning.  
 - **Custom Implementations**: 
