@@ -4,10 +4,18 @@ This repository contains a collection of deep learning experiments, Kaggle proje
 
 ## Contents
 
-- **Kaggle Experiments**: Various beginner to intermediate-level Kaggle competitions and datasets, with model implementations and results.
-- **Deep Learning Projects**: Self-implemented projects that explore different deep learning techniques, including transfer learning, generative models, and reinforcement learning.
-- **Custom Implementations**: Special deep learning models like a voice cloning model using transfer learning, and a micro-agent using Long Chain and RAG (Retrieval-Augmented Generation) technologies.
-  
+
+
+- **deeplearning.ai**: 
+	- Coursera deeplearning.ai presentation materials and Lab implementation
+- **Kaggle Experiments**: 
+	- Various beginner to intermediate-level Kaggle competitions and datasets, with model implementations and results.  
+	- TensorFlow dataset model training
+- **Deep Learning Projects**: 
+	- Self-implemented projects that explore different deep learning techniques, including transfer learning, generative models, and reinforcement learning.  
+- **Custom Implementations**: 
+	- Special deep learning models like a voice cloning model using transfer learning, and a micro-agent using Long Chain and RAG (Retrieval-Augmented Generation) technologies.
+
 ## Project Highlights
 
 - **Voice Cloning with Transfer Learning**: A project that demonstrates using transfer learning to clone voices, training the model on a custom dataset to synthesize speech.
