@@ -13,7 +13,7 @@ This repository contains a collection of deep learning experiments, Kaggle proje
 	- Various beginner to intermediate-level Kaggle competitions and datasets, with model implementations and results.  
 - **Deep Learning Projects**: 
 	- Self-implemented projects that explore different deep learning techniques, including transfer learning, generative models, and reinforcement learning.  
-- **Custom Implementations**: 
+- **Custom Implementations(sidp)**: 
 	- Special deep learning models like a voice cloning model using transfer learning, and a micro-agent using Long Chain and RAG (Retrieval-Augmented Generation) technologies.
 
 ## Project Highlights
