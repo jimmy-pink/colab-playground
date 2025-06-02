@@ -175,3 +175,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /coursera/stock_prices.csv
+/coursera-lab/my_dir/
