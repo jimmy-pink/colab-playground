@@ -176,3 +176,4 @@ cython_debug/
 .pypirc
 /coursera/stock_prices.csv
 /coursera-lab/my_dir/
+/3pytorch/data/
